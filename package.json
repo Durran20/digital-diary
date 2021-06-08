@@ -1,0 +1,27 @@
+{
+  "name": "digitalDiary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/styles.css -o styles2.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durran20/digital-diary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Durran20/digital-diary/issues"
+  },
+  "homepage": "https://github.com/Durran20/digital-diary#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0"
+  }
+}
